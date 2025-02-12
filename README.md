@@ -44,6 +44,7 @@ These are vendors with publicly traded stocks. The links lead to a vendor's webs
 Venture-funded companies
 
  - [AccuKnox](https://www.accuknox.com/) | [LinkedIn](https://www.linkedin.com/company/accuknox/) | [Crunchbase](https://www.crunchbase.com/organization/accuknox)
+ - [ActiveState](https://www.activestate.com/) | [LinkedIn](https://www.linkedin.com/company/activestate/) | [Crunchbase](https://www.crunchbase.com/organization/activestate)
  - [Aikido](https://www.aikido.dev/) | [LinkedIn](https://www.linkedin.com/company/aikido-security/) | [Crunchbase](https://www.crunchbase.com/organization/aikido-security)
  - [Aqua Security](https://www.aquasec.com/) | [LinkedIn](https://www.linkedin.com/company/aquasecteam/) | [Crunchbase](https://www.crunchbase.com/organization/aquasecurity)
  - [ARMO](https://www.armosec.io/) | [LinkedIn](https://www.linkedin.com/company/armosec/) | [Crunchbase](https://www.crunchbase.com/organization/cyber-armor)
